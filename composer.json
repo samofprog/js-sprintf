@@ -1,0 +1,12 @@
+{
+  "name": "samy/js-sprintf",
+  "description": "equivalent of the sprinf function available in c in php",
+  "type": "module",
+  "license": "MIT License",
+  "authors": [
+    {
+      "name": "samuel-assemien",
+      "email": "assemiensamuel48@gmail.com"
+    }
+  ]
+}
